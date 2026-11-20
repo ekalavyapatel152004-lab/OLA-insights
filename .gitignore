@@ -6,4 +6,4 @@ __pycache__/
 logs/*.log
 data/processed/*
 !data/processed/.gitkeep
-*.db
+
